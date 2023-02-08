@@ -1,0 +1,11 @@
+id: 1d8049b0d70d452d839f8fba76a9ce21
+annotation_type: index
+revision: '00001'
+annotations:
+  135d196e899943a1ade6f75c1c8e61ce:
+    base: 2621.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 1646

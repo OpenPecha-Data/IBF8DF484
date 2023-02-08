@@ -1,0 +1,16 @@
+id: IBF8DF484
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:03:21.571868
+last_modified: 2023-02-08 16:03:21.571960
+source_metadata:
+  title: 'Vasubandhu: Triṃśikāvijñapti'
+  language: zh
+bases:
+  '2621':
+    base_file: 2621.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
